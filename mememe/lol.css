@@ -1,0 +1,27 @@
+body{
+    background-color: dodgerblue;
+    color: white;
+}
+
+.cellcenterparent {
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+
+.cellcentercontent {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.main{
+    margin-top: 200px;
+    width: 100%;
+    max-width: 800px;
+}
+
+.btn{
+    padding: 20px;
+    width: 100%;
+}
